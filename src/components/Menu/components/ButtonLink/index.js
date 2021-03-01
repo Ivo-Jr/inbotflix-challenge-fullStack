@@ -1,14 +1,12 @@
 import React from 'react';
 
 
-function ButtonLink(props) {
+export default function ButtonLink(props) {
 
-    ''
 console.log(props)
  return (
     <a href={props.href} className={props.className}>
-        New video
+        {props.children}
     </a>
  );
 }
-export default ButtonLink;
