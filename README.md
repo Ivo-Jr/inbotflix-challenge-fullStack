@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# RivetAI Full Stack Coding Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents:
+- [App Description](#app-description)
+- [Requirements](#requirements)
+- [Technologies](#technologies)
+- [Submission](#submission)
+- [Evaluation](#evaluation)
+- [Bonus](#bonus)
 
-## Available Scripts
+## App Description
+You will create a movie rating app. The app should allow users to display movies that meet certain search criteria. Users should also be able to give movies "star ratings". In addition to creating the frontend application, you will need to develop a simple API. The focus of the challenge is on functionality (i.e. does the page display the correct information). Seed data for movies is included in this repo.
 
-In the project directory, you can run:
+## Requirements
 
-### `yarn start`
+- The app should display a list or table of movies that meet search parameters.
+  - The list or table should display: movie title, director, release year, and MPAA rating (e.g. G, PG, etc.)
+  - The search parameters should be: movie genre, release year range, and MPAA rating
+- The list should be sortable by all displayed parameters, including MPAA rating
+- For each movie in the list, the user should be able to review that movie on a scale of 1 to 5 stars (a "star rating") and leave a comment anonymously
+  - The comment should be limited to 500 characters or less
+- There should be a view where users can see the average star rating and comments for each movie
+- Submitted star ratings and comments should persist on refresh
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologies
+- Frontend: React.js
+- Backend: Express.js
+- Data storage: you can choose
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Submission
+Please submit your project as a publicly accessible git repository. Include clear instructions on how to run your solution on our computers. List any assumptions that you made. In your response, please let us know approximately how long the challenge took to complete. Bonus points if you are able to publicly host your solution someplace (e.g. Heroku, AWS), but this is not required.
 
-### `yarn test`
+## Evaluation
+We will evaluate your solution based on the following criteria
+- Is the code well documented/commented?
+- Is the code understandable and maintainable?
+- Did the project meet the requirements outlined above?
+- Are there tests?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Bonus
+For bonus points, add any other features that you think might be useful or tell us what features you would add if you had more time.
