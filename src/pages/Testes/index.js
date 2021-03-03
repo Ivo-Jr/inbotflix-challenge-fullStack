@@ -18,3 +18,36 @@ export default function Teste() {
         </div>
     )
 }
+
+
+// const [categoria, setCategoria] = useState('');
+//   const [filme, setFilme] = useState('');
+
+//   function handleAdd() {
+//     setCategoria([filme])
+//   }
+  
+
+
+//     return (
+//     <PageDefault>
+//       <h1>Cadastro de Categoria: {categoria} </h1>
+
+//       <form >
+//         <label>
+//           Nome da Categoria:
+//           </label>
+//           <input 
+//             value={filme}
+//             onChange={e => setFilme(e.target.value)}
+//           />
+
+//         <button onClick = {handleAdd} type ="button"> Cadastrar </button>
+//       </form >
+
+//       <Link to="/">
+//         Ir para home
+//       </Link>
+//     </PageDefault>
+//     )
+// }
