@@ -13,7 +13,7 @@ export default function Home() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"The Earth's natural reserves are coming to an end and a group of astronauts is tasked with verifying possible planets to receive the world's population, enabling the continuation of the species. Cooper is called to lead the group and accepts the mission knowing that he may never see his children again. Along with Brand, Jenkins and Doyle, he will continue in search of a new home."}
       />
 
     <Carousel
@@ -34,13 +34,6 @@ export default function Home() {
         category={dadosIniciais.categorias[3]}
       />
 
-      <Carousel
-        category={dadosIniciais.categorias[4]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      />
 
       <Footer />
     </div>
