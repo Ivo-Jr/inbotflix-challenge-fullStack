@@ -26,7 +26,6 @@ This project was developed with the following technologies:
 - [ReactJS](https://reactjs.org/)
 - [styled-components](https://www.styled-components.com/)
 
-- [VS Code][vc]
 
 ## :information_source: How To Use
 
@@ -144,3 +143,10 @@ $ yarn or npm start
 
 ---
 
+Made with ♥ by Ivo Junior :wave: [Get in touch!](https://www.linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145/)
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
