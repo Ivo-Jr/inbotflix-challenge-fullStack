@@ -121,3 +121,23 @@ $ yarn or npm start
 ├── README.md
 └── package.json
 
+
+
+```
+
+## :sunny: Result
+
+  <div style="display: flex;   flex-direction: column;
+  align-items: center;">
+  <h1 align="center" style="display: flex; flex-direction:row;">
+      <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print01.png" />
+        <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print02.png" />
+
+  </h1>
+  <h1 align="center" style="display: flex; flex-direction:row;">
+      <img  style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print03.png" />
+  </h1>
+  </div>
+
+---
+
