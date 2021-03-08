@@ -1,8 +1,8 @@
-<h1 align="center" style="    max-width: 250px;
-    margin: 30px 0;">
-    <br>
-    Quero Bolsa &nbsp; :&#127909:
+
+<h1 align="center">
+    <img alt="InbotFlix" src="src/assets/img/inbotflix.png" width="200px" />
 </h1>
+
 
 [We are ONLINE, try Now](https://quero-bolsa.netlify.app) :tada:<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/558d449f-56e0-4457-9120-69590d38cf43/deploy-status)](https://app.netlify.com/sites/quero-bolsa/deploys)
