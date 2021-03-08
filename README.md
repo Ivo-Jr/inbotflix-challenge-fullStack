@@ -131,12 +131,11 @@ $ yarn or npm start
   align-items: center;">
   <h1 align="center" style="display: flex; flex-direction:row;">
       <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print01.png" />
-        <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print02.png" />
-
-  </h1>
-  <h1 align="center" style="display: flex; flex-direction:row;">
+       <br>
+      <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print02.png" />
+      <br>
       <img  style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print03.png" />
-  </h1>
+  </h1>     
   </div>
 
 ---
