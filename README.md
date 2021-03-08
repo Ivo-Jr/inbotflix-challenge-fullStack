@@ -3,9 +3,10 @@
     <img alt="InbotFlix" src="src/assets/img/inbotflix.png" width="300px" />
 </h1>
 
-
+<p align="center">
 [We are ONLINE, try Now](https://quero-bolsa.netlify.app) :tada:<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/558d449f-56e0-4457-9120-69590d38cf43/deploy-status)](https://app.netlify.com/sites/quero-bolsa/deploys)
+</p>
 
 <h4 align="center">
   A site where you can discover all the best scholarship and choose the better.
