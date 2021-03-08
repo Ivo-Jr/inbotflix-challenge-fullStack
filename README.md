@@ -3,8 +3,8 @@
     <img alt="InbotFlix" src="src/assets/img/inbotflix.png" width="300px" />
 </h1>
 
-[We are ONLINE, try Now] :tada:<br>
-[![Netlify Status]
+[We are ONLINE, try Now](https://inbotflix.vercel.app) :tada:<br>
+
 
 
 <h4 align="center">
@@ -148,5 +148,4 @@ Made with ♥ by Ivo Junior :wave: [Get in touch!](https://www.linkedin.com/in/j
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
