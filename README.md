@@ -132,7 +132,9 @@ $ yarn or npm start
   <h1 align="center" style="display: flex; flex-direction:row;">
       <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print01.png" />
        <br>
+       <br>
       <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print02.png" />
+      <br>
       <br>
       <img  style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print03.png" />
   </h1>     
