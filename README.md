@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="InbotFlix" src="src/assets/img/inbotflix.png" width="200px" />
+    <img alt="InbotFlix" src="src/assets/img/inbotflix.png" width="300px" />
 </h1>
 
 
