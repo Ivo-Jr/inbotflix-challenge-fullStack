@@ -133,7 +133,9 @@ $ yarn or npm start
       <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print01.png" />
        <br>
        <br>
+       <br>
       <img   style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print02.png" />
+      <br>
       <br>
       <br>
       <img  style="margin: 0 10px;" alt="inbotflix-img" src="src/assets/layout/print03.png" />
