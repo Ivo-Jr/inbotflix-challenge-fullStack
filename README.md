@@ -42,7 +42,7 @@ $ cd inbotflix-challenge-fullStack
 $ yarn or npm install
 
 # Run the app
-$ yarn dev
+$ yarn or npm start
 ```
 
 ## :file_folder: Folder structure
